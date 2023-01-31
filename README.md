@@ -2,7 +2,7 @@
 
 # Mahumas' Project
 
-##Author
+## Author
  - [@Lissean](https://github.com/Lissean)
  
  ## Sample Code 
