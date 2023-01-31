@@ -1,12 +1,13 @@
 # IPT_mahumas
 
 # Mahumas' Project
+Learn in order to earn.
 
-## Author
+## Authors
  - [@Lissean](https://github.com/Lissean)
  
  ## Sample Code 
  
 ```
-System.out.println("Bye world);
+printf("hello world");
 ```
