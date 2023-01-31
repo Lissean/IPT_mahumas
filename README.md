@@ -8,6 +8,6 @@ Learn in order to earn.
  
  ## Sample Code 
  
-```diff
+```ini
 printf("hello world");
 ```
