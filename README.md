@@ -1,6 +1,6 @@
 # IPT_mahumas
 
-# Mahumas' Project
+# Mahumas's Project
 Learn in order to earn.
 
 ## Authors
