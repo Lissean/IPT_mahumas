@@ -11,3 +11,5 @@ Learn in order to earn.
 ```ini
 printf("hello world");
 ```
+## How to Install
+- Step 1
