@@ -12,7 +12,6 @@ Learn in order to earn.
 printf("hello world");
 ```
 ## How to Install
-<<<<<<< HEAD
 - Step 1: Go travel
 
 ## commit 1
@@ -20,6 +19,4 @@ printf("hello world");
 
 ## commit 2
 - number 2
-=======
-- Step 1: Go travel
->>>>>>> parent of e278856 (Update Commit 1)
+
