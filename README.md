@@ -12,4 +12,4 @@ Learn in order to earn.
 printf("hello world");
 ```
 ## How to Install
-- Step 1: Download the zip file or use git clone
+- Step 1: Go travel
