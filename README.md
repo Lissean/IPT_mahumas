@@ -18,12 +18,5 @@ printf("hello world");
 - number 1
 
 ## commit 2
-<<<<<<< HEAD
 - number 2
 
-=======
-- Step 1: Go travel
->>>>>>> parent of e278856 (Update Commit 1)
-=======
-- number 2
->>>>>>> parent of 9b2a905 (Revert "Update Commit 1")
