@@ -11,12 +11,9 @@ Learn in order to earn.
 ```ini
 printf("hello world");
 ```
-## How to Install
+## This is how commit works
 - Step 1: Go travel
 
-## commit 1
-- number 1
-
-## commit 2
-- number 2
+# Trying to use branch 
+- Weabo
 
