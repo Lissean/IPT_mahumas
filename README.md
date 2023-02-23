@@ -14,9 +14,6 @@ printf("hello world");
 ## How to Install
 - Step 1: Go travel
 
-## commit 1
-- number 1
-
-## commit 2
-- number 2
+### branching 
+- step 1: git branch <newname>
 
